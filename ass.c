@@ -1,7 +1,5 @@
 #include<studio.h>
-void main()
-{
-  int a,b,c;
+void main(){
 }
 int add(int p,int q){
 int r=p+q;
