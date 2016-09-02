@@ -1,7 +1,8 @@
 #include<studio.h>
 void main(){
 }
-int add(int p,int q){
+int add(int p,int q,int c){
+return q;
 
 return r;
 }
